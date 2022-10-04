@@ -1,6 +1,4 @@
-# energy-usage-prediction
 
-======================================================================================================================
 ## Predicting Building Energy Usage
 
 The aim of the project is to develop an accurate model of metered building energy usage in such areas as chilled water, electric, hot water, and steam meters based on historic usage rates and observed weather over a three-year timeframe.
@@ -21,4 +19,3 @@ We aim to minimise the difference between the real energy consumption and the en
 
 4. R-squared (r2)
 
-======================================================================================================================
