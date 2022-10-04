@@ -19,3 +19,15 @@ We aim to minimise the difference between the real energy consumption and the en
 
 4. R-squared (r2)
 
+## Data
+
+Data is taken from the Kaggle Competition: https://www.kaggle.com/competitions/ashrae-energy-prediction/.
+
+It consists of the following files:
+
+- train.csv
+- building_meta.csv
+- weather_[train/test].csV (Weather data from a meteorological station as close as possible to the building location)
+- test.csv 
+
+Target variable is **meter_reading** from train.csv.
